@@ -1,0 +1,1 @@
+QuizApp es una aplicación .NET MAUI que implementa un juego de verdadero o falso
